@@ -34,24 +34,17 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * <b>Hansen, B.</b>, Avalos-Pacheco A., Russo M., De Vito R. Fast Variational Inference for Bayesian Factor Analysis in Single and Multi-Study Settings, arXiv:2305.13188 [submitted]
+  * Hansen, B., Avalos-Pacheco, A., Russo, M., & De Vito, R. A Variational Bayes Approach to
+Factor Analysis. Bayesian Statistics, New Generations New Approaches (pp. 1521). Springer
+International Publishing. 2023. https://doi.org/10.1007/978-3-031-42413-7 
+  * Liu, T.,<sup>*</sup>, Chambers, L.C.<sup>*</sup>, <b>Hansen, B,.,</b><sup>*</sup>, Bazerman L.B., Cachay, E.R., Christopoulos, K., Drainoni, M., Gillani, F.S., Mayer, K.H., Moore, R.D., Rana, A., Beckwith, C.G., Risk of HIV Viral Rebound in the Era of Universal Treatment in a Multicenter Sample of Persons With HIV in Primary Care, Open Forum Infectious Diseases, Volume 10, Issue 6, June 2023, ofad257, https://doi.org/10.1093/ofid/ofad257
+
   
 Talks
 ======
-  * <b>Non-negative Matrix Factorization: Understanding the Genres of Mutations in Cancer</b>, Take-Out Thursdays Lightning Talks, November 2023.
+  * <b>Non-negative Matrix Factorization: Understanding the Genres of Mutations in Cancer</b>, Take-Out Thursdays Lightning Talks, Brown University Department of Biostatistics, November 2023.
   * <b>Variational Inference for Nonnegative Matrix Factorization Models</b>, Annual PhD Research Presentation, Brown University Department of Biostatistics, April 2023.
   * <b>Fast Variational Inference for Bayesian Multi-Study Factor Analysis</b>, Annual PhD Research Presentation, Brown University Department of Biostatistics, May 2022
   * <b>Fast Variational Inference for Bayesian Multi-study Factor Analysis</b>, BaYSM (computation session), Montreal, Canada, June 2021.
 
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
