@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, California State University, Monterey Bay, 2018
+* Sc.M. in Biostatistics, Brown University, School of Public Health, 2020
+* Ph.D in Biostatistics,Brown University, School of Public Health 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2019 - June 2020: Data Science Co-op
+  * Healthcare Technology Center, Johnson & Johnson
+  *    Deliver high-quality Data Science solution and produce business value across many groups within Technology Services in collaboration with small teams of Data Scientists
+  *    Follow best Data Science practices including programming practices, version control, AGILE
+  *    Programming Languages: R, Python, Git
   
 Skills
 ======
@@ -44,9 +40,12 @@ Publications
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  * Non-negative Matrix Factorization: Understanding the Genres of Mutations in Can-
+cer, Take-Out Thursdays Lightning Talks, November 2023.
+  * Variational Inference for Nonnegative Matrix Factorization Models, Annual PhD Re-
+search Presentation, Brown University Department of Biostatistics, April 2023.
+  * Fast Variational Inference for Bayesian Multi-study Factor Analysis, Annual PhD Re-
+search Presentation, Brown University Department of Biostatistics, May 2022
   
 Teaching
 ======
