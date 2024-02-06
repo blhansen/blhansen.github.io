@@ -40,8 +40,8 @@ Publications
   
 Talks
 ======
-  * Non-negative Matrix Factorization: Understanding the Genres of Mutations in Can-
-cer, Take-Out Thursdays Lightning Talks, November 2023.
+  * <b>Non-negative Matrix Factorization: Understanding the Genres of Mutations in Can-
+cer</b>, Take-Out Thursdays Lightning Talks, November 2023.
   * Variational Inference for Nonnegative Matrix Factorization Models, Annual PhD Re-
 search Presentation, Brown University Department of Biostatistics, April 2023.
   * Fast Variational Inference for Bayesian Multi-study Factor Analysis, Annual PhD Re-
