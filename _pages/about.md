@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic profile of Blake Hansenacademicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic profile of Blake Hansen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
- (in progress)
+
