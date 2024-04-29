@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![Me presenting my research at BaYSM 2022 in Montreal, Canada.][https://blhansen.github.io/images/BaYSM_presentation.jpg]
+![Me presenting my research at BaYSM 2022 in Montreal, Canada.](https://blhansen.github.io/images/BaYSM_presentation.jpg)
